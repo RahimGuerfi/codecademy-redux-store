@@ -17,7 +17,7 @@ In the cart, the user can adjust the quantity of each item and the running total
 
 Lastly, the user can choose the currency for the entire application.
 
-> ![Demo]()
+> ![Demo](https://raw.githubusercontent.com/RahimGuerfi/codecademy-redux-store/main/public/demo.gif)
 
 This application has three slices of state:
 
